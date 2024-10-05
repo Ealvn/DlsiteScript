@@ -2,7 +2,7 @@
 // @name         Dlsite Userscript
 // @namespace    DlsiteScript
 // @version      2024-10-05
-// @description  try to take over the world!
+// @description  自用过滤脚本
 // @author       Ealvn
 // @match        https://www.dlsite.com/home/works/translatable*
 // @match        https://www.dlsite.com/maniax/works/translatable*
